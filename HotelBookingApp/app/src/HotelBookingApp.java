@@ -59,7 +59,7 @@ class BookingRequestQueue {
         queue.offer(reservation);
     }
 }
-public class UseCase9ErrorHandlingValidation {
+public class HotelBookingApp {
 
     public static void main(String[] args) {
 
