@@ -50,7 +50,7 @@ class AddOnServiceManager {
     }
 }
 
-public class UseCase7AddOnServiceSelection {
+public class HotelBookingApp {
 
     public static void main(String[] args) {
 
